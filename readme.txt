@@ -7,3 +7,5 @@ study
 mystudy
 
 hellohello�ķ��ش�
+
+AAAgit
