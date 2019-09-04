@@ -4,4 +4,4 @@ this is a git study
 
 study
 
-mystudy
+mystudy第三方第三方的
