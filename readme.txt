@@ -10,5 +10,5 @@ hellohello�ķ��ش�
 
 AAAgitBBB
 
-CCCCAAACCC
+CCCCAAA
 
